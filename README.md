@@ -1,2 +1,3 @@
 # Coinfantom
 Coinfantom
+CFT
